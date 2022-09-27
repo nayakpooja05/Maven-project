@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-27T08:49:13Z" name="Default suite" finished-at="2022-09-27T08:49:55Z" duration-ms="42142">
+    <groups>
+    </groups>
+    <test started-at="2022-09-27T08:49:13Z" name="Default test" finished-at="2022-09-27T08:49:55Z" duration-ms="42142">
+      <class name="testngexmpl.AllAssignment">
+        <test-method signature="Hrm()[pri:0, instance:testngexmpl.AllAssignment@3148f668]" started-at="2022-09-27T08:49:13Z" name="Hrm" finished-at="2022-09-27T08:49:33Z" duration-ms="19982" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Hrm -->
+        <test-method signature="facebookfsignup()[pri:0, instance:testngexmpl.AllAssignment@3148f668]" started-at="2022-09-27T08:49:33Z" name="facebookfsignup" finished-at="2022-09-27T08:49:36Z" duration-ms="3116" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- facebookfsignup -->
+        <test-method signature="mouseover()[pri:0, instance:testngexmpl.AllAssignment@3148f668]" started-at="2022-09-27T08:49:36Z" name="mouseover" finished-at="2022-09-27T08:49:53Z" duration-ms="16797" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mouseover -->
+        <test-method signature="webtable()[pri:0, instance:testngexmpl.AllAssignment@3148f668]" started-at="2022-09-27T08:49:53Z" name="webtable" finished-at="2022-09-27T08:49:55Z" duration-ms="2228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webtable -->
+      </class> <!-- testngexmpl.AllAssignment -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
